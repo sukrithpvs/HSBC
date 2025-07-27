@@ -117,10 +117,4 @@ uvicorn main:app --reload
   - User: `"Actually, block my card instead"`  
     (Assistant switches to card blocking flow, preserves previous workflow state)
 
-**For further details on configuration, main modules, and extensibility, see project documentation or code comments.**
 
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/7324171/ae812d39-a997-4213-8fc8-ba4771579af8/agents.py
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/7324171/8942d37b-3fe7-4483-be57-1c802e140a13/database.py
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/7324171/4d2ebf32-425d-4c8b-ab64-044bddcfb4c4/main.py
-[4] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/7324171/4e2d3196-4a9d-4dee-8346-348f3a603433/models.py
-[5] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/7324171/4fa1caad-de9d-4d7d-a425-c1b023c53caa/services.py
